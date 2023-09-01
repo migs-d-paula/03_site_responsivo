@@ -24,7 +24,9 @@
 
     </section>
     <footer id="rodape">
-
+<div class="banner-rodape">
+    <img src="images/banner-full.png" width="100%" alt="">
+</div>
     </footer>
 </body>
 </html>
